@@ -1,2 +1,4 @@
 # DevAthlon - Party
-Lel
+
+Command:
+/party
