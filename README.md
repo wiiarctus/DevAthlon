@@ -1,1 +1,1 @@
-# DevAthlon
+# DevAthlon - Party
